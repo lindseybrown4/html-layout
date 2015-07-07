@@ -1,0 +1,40 @@
+html, body {
+	height: 100%;
+	width: 100%; 
+	margin: 0; 
+ }
+
+#blue {
+	display:inline-block;
+	background-color: #468EE5;
+	height: 100%;
+	width: 33.3%;
+	float:left;
+
+}
+
+#teal {
+	display:inline-block;
+	background-color: #47E4C2;
+	height: 100%;
+	width: 33.3%;
+	float:left;
+}
+
+#green {
+	display:inline-block;
+	background-color: #B7EB81;
+	height:66.6%;
+	width: 33.3%;
+	float: left;
+}
+
+#red {
+	background-color: #D21D0C;
+	height: 33.3%;
+	width: 33.3%;
+	float: left;
+	background-image: url(https://pbs.twimg.com/profile_images/497043545505947648/ESngUXG0.jpeg);
+	
+
+}
